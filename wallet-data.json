@@ -1,0 +1,12 @@
+{
+    "accounts": [
+        {
+            "id": "259566ae-9d0d-4def-a780-2bd3e7aca2ed",
+            "currencyType": "USD",
+            "transactions": [4800, -2400, -278, -500, 1000, -4.9]
+        }
+    ],
+    "holder": {
+        "name": "John Smith"
+    }
+}
